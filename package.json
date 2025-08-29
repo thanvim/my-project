@@ -1,0 +1,19 @@
+{
+  "name": "smartbites",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.py",
+  "scripts": {
+    "test": "streamlit run app.py"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aishwarya5959/thesmartbites.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aishwarya5959/thesmartbites/issues"
+  },
+  "homepage": "https://github.com/Aishwarya5959/thesmartbites#readme"
+}
