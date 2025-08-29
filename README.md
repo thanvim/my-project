@@ -57,10 +57,4 @@ The code consists of the following key functionalities:
 
 -> Background Styling: Includes custom CSS to enhance the UI with background images and stylized text.
 
-# Contributors
 
-Aishwarya Reddy .K 
-
-Akanksha .K
-
-Jhoshna .P
