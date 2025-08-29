@@ -32,19 +32,6 @@ User Interface
 
 => PIL (Pillow): Processes images within the application.
 
-# Setup
-
-**Clone the Repository:**
-git clone https://github.com/Akanksha7705/SmartInternz-Hackathon.git
-
-
-cd project
-
-Add your API_key in app.py
-
-**Run the Application:**
-streamlit run app.py
-
 **Code Overview**
 
 The code consists of the following key functionalities:
@@ -56,5 +43,6 @@ The code consists of the following key functionalities:
 -> Meal Reminder System: Users can set a time for meal reminders.
 
 -> Background Styling: Includes custom CSS to enhance the UI with background images and stylized text.
+
 
 
